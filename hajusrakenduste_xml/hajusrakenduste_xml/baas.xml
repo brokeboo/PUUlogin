@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<inimesed>
+  <inimene>
+    <eesnimi>Janika</eesnimi>
+    <perenimi>Valjataga</perenimi>
+    <synd>2000</synd>
+  </inimene>
+  <inimene>
+    <eesnimi>Veronika</eesnimi>
+    <perenimi>Jefimova</perenimi>
+    <synd>2002</synd>
+  </inimene>
+  <inimene>
+    <eesnimi>Jan</eesnimi>
+    <perenimi>Basarov</perenimi>
+    <synd>2003</synd>
+  </inimene>
+  <inimene>
+    <eesnimi>Dima</eesnimi>
+    <perenimi>Dovzenok</perenimi>
+    <synd>2001</synd>
+  </inimene>
+</inimesed>

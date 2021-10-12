@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<inimene>
+  <nimi>Elisaveta II</nimi>
+  <synniaasta>1926</synniaasta>
+  <title>Kuninganna</title>
+  <lapsed>
+    <inimene>
+      <nimi>Charles</nimi>
+      <synniaasta>1926</synniaasta>
+      <title>Prints</title>
+      <lapsed>
+        <inimene>
+          <nimi>Harry</nimi>
+          <synniaasta>1984</synniaasta>
+          <title>Prints</title>
+          
+          <lapsed>
+            <inimene>
+              <nimi>Archi</nimi>
+              <synniaasta>2019</synniaasta>
+              <title>Prints</title>
+              
+            </inimene>
+          </lapsed>
+        </inimene>
+        <inimene>
+          <nimi>William</nimi>
+          <synniaasta>1982</synniaasta>
+          <title>Prints</title>
+          <lapsed>
+            <inimene>
+              <nimi>Dzordz Aleksandr Lui</nimi>
+              <synniaasta>2013</synniaasta>
+              <title>Prints</title>
+          </inimene>
+            <inimene>
+              <nimi>Sharlotte</nimi>
+              <synniaasta>2015</synniaasta>
+              <title>Kuninganna</title>
+            </inimene>
+            <inimene>
+              <nimi>Lui Artur Charlz</nimi>
+              <synniaasta>2018</synniaasta>
+               <title>Prints</title>
+            </inimene>
+          </lapsed>
+        </inimene>
+      </lapsed>
+    </inimene>
+    <inimene>
+      <nimi>Anna</nimi>
+      <synniaasta>1950</synniaasta>
+      <title>Kuninganna</title>
+    </inimene>
+    <inimene>
+      <nimi>Endry</nimi>
+      <title>Prints</title>
+      <synniaasta>1960</synniaasta>
+    </inimene>
+    <inimene>
+      <nimi>Andrew</nimi>
+      <synniaasta>1964</synniaasta>
+      <title>Prints</title>
+      <lapsed>
+        <inimene>
+          <nimi>Luisa</nimi>
+          <synniaasta>2003</synniaasta>
+          <title>Kuninganna</title>
+        </inimene>
+      </lapsed>
+    </inimene>
+  </lapsed>
+</inimene>

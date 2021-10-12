@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<autos>
+  <auto>
+    <regiNumber>IEJ 232</regiNumber>
+    <perenimi>Valjataga</perenimi>
+  </auto >
+  <auto>
+    <regiNumber>UYH 345</regiNumber>
+    <perenimi>Jefimova</perenimi>
+    
+  </auto >
+  <auto>
+    <regiNumber>LOP 987</regiNumber>
+    <perenimi>Valjataga</perenimi>
+  </auto >
+  <auto>
+    <regiNumber>KIJ 654</regiNumber>
+    <perenimi>Krag</perenimi>
+  </auto >
+  <auto>
+    <regiNumber>PMN 444</regiNumber>
+    <perenimi>Grug</perenimi>
+  </auto >
+  <auto>
+    <regiNumber>AWD 225</regiNumber>
+    <perenimi>Merkulova</perenimi>
+  </auto >
+</autos>
